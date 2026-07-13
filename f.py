@@ -1,14 +1,14 @@
-from fastapi import FastAPI
+from sqlalchemy import create_engine, text
 
-app = FastAPI()
+engine = create_engine(
+    "mysql+pymysql://root:9211@localhost/cloudgpu_advisor"
+)
 
+with engine.connect() as conn:
+    result = conn.execute(text("SELECT DATABASE()"))
+    print("Current DB:", result.fetchone()[0])
 
-@app.get("/")
-async def read_root():
-	return {"message": "Hello, world!"}
-
-
-if __name__ == "__main__":
-	import uvicorn
-
-	uvicorn.run(app, host="127.0.0.1", port=8000, log_level="info")
+    result = conn.execute(text("SHOW TABLES"))
+    print("Tables:")
+    for row in result:
+        print(row)
