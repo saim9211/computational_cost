@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-# Load CSV
+# Load CSV in to sql database
 df = pd.read_csv("combined_gpu_data_unfiltered.csv")
 
 
@@ -10,6 +10,7 @@ engine = create_engine(
     
     "mysql+pymysql://root:9211@localhost/cloudgpu_advisor"
 )
+# convert the last_updated column to datetime
 df["last_updated"] = pd.to_datetime(
     df["last_updated"],
     utc=True,
@@ -23,7 +24,7 @@ df["extracted_at"] = pd.to_datetime(
     format="%Y%m%d_%H%M%S",
     errors="coerce"
 )
-# Import
+# import the data into the database
 
 try:
     df.to_sql(

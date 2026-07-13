@@ -31,12 +31,32 @@ df["month"] = df["snapshot_date"].dt.month
 df["day"] = df["snapshot_date"].dt.day
 
 print(df.head())
+print(df.shape)
 
 # save for training the ml modal
-print(df.shape)
 
 df.to_csv(
     "training_dataset.csv",
     index=False
 )
 
+
+
+df = df.sort_values(
+    ["gpu_model", "provider", "snapshot_date"]
+)
+
+df["price_lag_1"] = (
+    df.groupby(["gpu_model", "provider"])["avg_price"]
+      .shift(1)
+)
+
+df["price_lag_2"] = (
+    df.groupby(["gpu_model", "provider"])["avg_price"]
+      .shift(2)
+)
+
+df.to_csv(
+    "gpu_forecasting_dataset.csv",
+    index=False
+)
