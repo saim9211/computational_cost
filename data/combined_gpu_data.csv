@@ -62,7 +62,7 @@ Massed Compute,massedcompute,https://massedcompute.com/,RTX PRO 6000,rtx-pro-600
 Latitude.sh,latitude,https://www.latitude.sh/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,8,8,3.41,27.28,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=latitude&gputype=RTXPRO6000&numgpus=8&referral=6B321750,2026-07-14 00:00:22.331170+00:00,RTX PRO 6000,20260714_163003
 Latitude.sh,latitude,https://www.latitude.sh/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,8,8,2.9988,23.9904,on_demand,,USD,1.0,https://www.latitude.sh/pricing,2026-07-12 03:00:56.544450+00:00,RTX PRO 6000,20260712_201314
 Latitude.sh,latitude,https://www.latitude.sh/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,1,8,1.9,1.9,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=latitude&gputype=RTXPRO6000&numgpus=1&referral=6B321750,2026-07-14 00:00:22.354638+00:00,RTX PRO 6000,20260714_163003
-Jarvis Labs,jarvis,https://jarvislabs.ai/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,1,1,1.89,1.89,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.360375+00:00,RTX PRO 6000,20260712_201314
+Jarvis Labs,jarvis,https://jarvislabs.ai/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,1,1,1.89,1.89,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.411898+00:00,RTX PRO 6000,20260714_233138
 IO.NET,ionet,https://io.net/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,8,8,3.5805,28.644,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:05.771124+00:00,RTX PRO 6000,20260714_163003
 IO.NET,ionet,https://io.net/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,1,8,2.0895,2.0895,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.480215+00:00,RTX PRO 6000,20260714_163003
 Hyperstack,hyperstack,https://www.hyperstack.cloud/,RTX PRO 6000,rtx-pro-6000,96,Blackwell,1,8,1.85,1.85,on_demand,,USD,1.0,https://www.hyperstack.cloud/gpu-pricing,2026-07-14 00:00:33.816785+00:00,RTX PRO 6000,20260714_163003
@@ -93,7 +93,7 @@ Oblivus,oblivus,https://www.oblivus.com,RTX A6000,rtxa6000,48,Ampere,1,1,0.55,0.
 Massed Compute,massedcompute,https://massedcompute.com/,RTX A6000,rtxa6000,48,Ampere,8,8,0.57,4.56,on_demand,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:21.693224+00:00,RTX A6000,20260714_163003
 Massed Compute,massedcompute,https://massedcompute.com/,RTX A6000,rtxa6000,48,Ampere,8,8,0.5,4.0,spot,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:21.363192+00:00,RTX A6000,20260714_163003
 Lambda Labs,lambda,https://lambdalabs.com/,RTX A6000,rtxa6000,48,Ampere,4,4,1.09,4.36,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:02.026619+00:00,RTX A6000,20260714_163003
-Koyeb,koyeb,https://www.koyeb.com,RTX A6000,rtxa6000,48,Ampere,1,1,0.75,0.75,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.258271+00:00,RTX A6000,20260710_002006
+Koyeb,koyeb,https://www.koyeb.com,RTX A6000,rtxa6000,48,Ampere,1,1,0.75,0.75,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.327398+00:00,RTX A6000,20260714_233138
 IO.NET,ionet,https://io.net/,RTX A6000,rtxa6000,48,Ampere,1,4,0.9282,0.9282,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.867820+00:00,RTX A6000,20260714_163003
 IO.NET,ionet,https://io.net/,RTX A6000,rtxa6000,48,Ampere,2,4,0.4935,0.987,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.818293+00:00,RTX A6000,20260714_163003
 IO.NET,ionet,https://io.net/,RTX A6000,rtxa6000,48,Ampere,2,4,0.4725,0.945,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-09 00:01:22.948339+00:00,RTX A6000,20260710_002006
@@ -382,7 +382,7 @@ Modal,modal,https://modal.com,L40S,l40s,48,Ada Lovelace,1,1,1.9512,1.9512,on_dem
 Massed Compute,massedcompute,https://massedcompute.com/,L40S,l40s,48,Ada Lovelace,8,8,0.88,7.04,on_demand,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:20.988596+00:00,L40S,20260714_163003
 Latitude.sh,latitude,https://www.latitude.sh/,L40S,l40s,48,Ada Lovelace,8,8,0.8713,6.9704,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=latitude&gputype=L40S&numgpus=8&referral=6B321750,2026-07-14 00:00:22.257782+00:00,L40S,20260714_163003
 Latitude.sh,latitude,https://www.latitude.sh/,L40S,l40s,48,Ada Lovelace,1,8,0.74,0.74,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=latitude&gputype=L40S&numgpus=1&referral=6B321750,2026-07-14 00:00:22.310495+00:00,L40S,20260714_163003
-Koyeb,koyeb,https://www.koyeb.com,L40S,l40s,48,Ada Lovelace,1,1,1.2,1.2,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.282286+00:00,L40S,20260710_002006
+Koyeb,koyeb,https://www.koyeb.com,L40S,l40s,48,Ada Lovelace,1,1,1.2,1.2,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.372526+00:00,L40S,20260714_233138
 IO.NET,ionet,https://io.net/,L40S,l40s,48,Ada Lovelace,8,8,1.785,14.28,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-08 00:00:17.819931+00:00,L40S,20260710_002006
 IO.NET,ionet,https://io.net/,L40S,l40s,48,Ada Lovelace,1,8,1.7262,1.7262,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-09 00:01:22.741766+00:00,L40S,20260710_002006
 IO.NET,ionet,https://io.net/,L40S,l40s,48,Ada Lovelace,8,8,1.4745,11.796,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:05.834975+00:00,L40S,20260714_163003
@@ -441,7 +441,7 @@ Scaleway,scaleway,https://www.scaleway.com/,L4,l4,24,Ada Lovelace,8,8,0.9005,7.2
 Scaleway,scaleway,https://www.scaleway.com/,L4,l4,24,Ada Lovelace,8,8,0.8981,7.1848,on_demand,,EUR,1.1404,https://www.scaleway.com/en/pricing/gpu/,2026-07-09 00:01:06.091843+00:00,L4,20260710_002006
 Modal,modal,https://modal.com,L4,l4,24,Ada Lovelace,1,1,0.7992,0.7992,on_demand,,USD,1.0,https://modal.com/pricing,2026-07-12 05:01:18.885898+00:00,L4,20260712_201314
 Koyeb,koyeb,https://www.koyeb.com,L4,l4,24,Ada Lovelace,1,1,0.7,0.7,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-03 01:00:44.136200+00:00,L4,20260710_002006
-Jarvis Labs,jarvis,https://jarvislabs.ai/,L4,l4,24,Ada Lovelace,1,1,0.44,0.44,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.458976+00:00,L4,20260712_201314
+Jarvis Labs,jarvis,https://jarvislabs.ai/,L4,l4,24,Ada Lovelace,1,1,0.44,0.44,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.530931+00:00,L4,20260714_233138
 IO.NET,ionet,https://io.net/,L4,l4,24,Ada Lovelace,4,8,0.9975,3.99,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.187260+00:00,L4,20260714_163003
 IO.NET,ionet,https://io.net/,L4,l4,24,Ada Lovelace,1,8,0.5985,0.5985,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:07.006155+00:00,L4,20260714_163003
 AtmosCompute,atmoscompute-com,https://atmoscompute.com,L4,l4,24,Ada Lovelace,1,1,0.98,0.98,on_demand,,USD,1.0,https://atmoscompute.com/prices,2026-06-28 15:00:53.115364+00:00,L4,20260710_002006
@@ -504,7 +504,8 @@ Modal,modal,https://modal.com,H200,h200,141,Hopper,1,1,4.5396,4.5396,on_demand,,
 Massed Compute,massedcompute,https://massedcompute.com/,H200,h200,141,Hopper,8,8,3.82,30.56,on_demand,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:22.045855+00:00,H200,20260714_163003
 Massed Compute,massedcompute,https://massedcompute.com/,H200,h200,141,Hopper,2,8,3.62,7.24,on_demand,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:21.960030+00:00,H200,20260714_163003
 Massed Compute,massedcompute,https://massedcompute.com/,H200,h200,141,Hopper,8,8,3.4375,27.5,spot,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:22.085143+00:00,H200,20260714_163003
-Koyeb,koyeb,https://www.koyeb.com,H200,h200,141,Hopper,1,8,3.0,3.0,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.379380+00:00,H200,20260710_002006
+Koyeb,koyeb,https://www.koyeb.com,H200,h200,141,Hopper,8,8,3.0,24.0,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.819500+00:00,H200,20260714_233138
+Jarvis Labs,jarvis,https://jarvislabs.ai/,H200,h200,141,Hopper,1,1,3.99,3.99,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.347585+00:00,H200,20260714_233138
 Jarvis Labs,jarvis,https://jarvislabs.ai/,H200,h200,141,Hopper,1,1,3.8,3.8,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.310702+00:00,H200,20260712_201314
 IO.NET,ionet,https://io.net/,H200,h200,141,Hopper,1,8,4.7753,4.7753,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.068439+00:00,H200,20260714_163003
 IO.NET,ionet,https://io.net/,H200,h200,141,Hopper,4,8,4.3438,17.3752,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:05.794036+00:00,H200,20260714_163003
@@ -600,8 +601,8 @@ Lambda Labs,lambda,https://lambdalabs.com/,H100 SXM,h100,80,Hopper,4,8,4.09,16.3
 Lambda Labs,lambda,https://lambdalabs.com/,H100 SXM,h100,80,Hopper,8,8,3.99,31.92,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:01.638373+00:00,H100 SXM,20260714_163003
 Lambda Labs,lambda,https://lambdalabs.com/,H100 SXM,h100,80,Hopper,1,8,3.29,3.29,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:01.742385+00:00,H100 SXM,20260714_163003
 Koyeb,koyeb,https://www.koyeb.com,H100 SXM,h100,80,Hopper,2,8,5.0,10.0,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.428309+00:00,H100 SXM,20260710_002006
-Koyeb,koyeb,https://www.koyeb.com,H100 SXM,h100,80,Hopper,1,8,2.5,2.5,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.346426+00:00,H100 SXM,20260710_002006
-Jarvis Labs,jarvis,https://jarvislabs.ai/,H100 SXM,h100,80,Hopper,1,1,2.69,2.69,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.337323+00:00,H100 SXM,20260712_201314
+Koyeb,koyeb,https://www.koyeb.com,H100 SXM,h100,80,Hopper,8,8,2.5,20.0,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.782315+00:00,H100 SXM,20260714_233138
+Jarvis Labs,jarvis,https://jarvislabs.ai/,H100 SXM,h100,80,Hopper,1,1,2.69,2.69,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.381086+00:00,H100 SXM,20260714_233138
 IO.NET,ionet,https://io.net/,H100 SXM,h100,80,Hopper,1,8,3.507,3.507,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.281189+00:00,H100 SXM,20260714_163003
 IO.NET,ionet,https://io.net/,H100 SXM,h100,80,Hopper,8,8,3.4844,27.8752,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-07 00:01:27.881169+00:00,H100 SXM,20260710_002006
 IO.NET,ionet,https://io.net/,H100 SXM,h100,80,Hopper,2,8,3.465,6.93,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:05.922409+00:00,H100 SXM,20260714_163003
@@ -683,7 +684,7 @@ Lambda Labs,lambda,https://lambdalabs.com/,B200,b200,192,Blackwell,1,8,6.99,6.99
 Lambda Labs,lambda,https://lambdalabs.com/,B200,b200,192,Blackwell,2,8,6.89,13.78,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:01.582026+00:00,B200,20260714_163003
 Lambda Labs,lambda,https://lambdalabs.com/,B200,b200,192,Blackwell,4,8,6.79,27.16,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=lambdalabs&gputype=B200&numgpus=4&referral=6B321750,2026-07-14 00:00:20.596404+00:00,B200,20260714_163003
 Lambda Labs,lambda,https://lambdalabs.com/,B200,b200,192,Blackwell,8,8,6.69,53.52,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:01.557092+00:00,B200,20260714_163003
-Koyeb,koyeb,https://www.koyeb.com,B200,b200,192,Blackwell,1,1,5.5,5.5,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-06-30 17:01:01.436058+00:00,B200,20260710_002006
+Koyeb,koyeb,https://www.koyeb.com,B200,b200,192,Blackwell,1,1,5.5,5.5,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.580099+00:00,B200,20260714_233138
 Hyperstack,hyperstack,https://www.hyperstack.cloud/,B200,b200,192,Blackwell,1,1,6.0,6.0,on_demand,,USD,1.0,https://www.hyperstack.cloud/gpu-pricing,2026-07-14 00:00:34.017349+00:00,B200,20260714_163003
 Hyperbolic,hyperbolic,https://www.hyperbolic.ai/,B200,b200,192,Blackwell,1,1,3.5,3.5,on_demand,,USD,1.0,https://www.hyperbolic.ai/marketplace,2026-07-14 00:01:28.944246+00:00,B200,20260714_163003
 Genesis Cloud,genesis,https://www.genesiscloud.com/,B200,b200,192,Blackwell,8,8,2.8,22.4,on_demand,,USD,1.0,https://www.genesiscloud.com/pricing,2026-06-20 21:04:14.063136+00:00,B200,20260710_002006
@@ -714,7 +715,7 @@ Seeweb,seeweb,https://www.seeweb.it/en,A30,a30,24,Ampere,1,1,0.3315,0.3315,on_de
 Seeweb,seeweb,https://www.seeweb.it/en,A30,a30,24,Ampere,1,1,0.3313,0.3313,on_demand,,EUR,1.1424,https://www.seeweb.it/prodotti/cloud-server-gpu,2026-07-14 00:00:10.009986+00:00,A30,20260714_163003
 Seeweb,seeweb,https://www.seeweb.it/en,A30,a30,24,Ampere,1,1,0.3307,0.3307,on_demand,,EUR,1.1404,https://www.seeweb.it/prodotti/cloud-server-gpu,2026-07-09 00:00:18.836061+00:00,A30,20260710_002006
 Massed Compute,massedcompute,https://massedcompute.com/,A30,a30,24,Ampere,8,8,0.35,2.8,on_demand,,USD,1.0,https://vm.massedcompute.com/api/v1/gpu-inventory,2026-07-14 00:01:21.260995+00:00,A30,20260714_163003
-Jarvis Labs,jarvis,https://jarvislabs.ai/,A30,a30,24,Ampere,1,1,0.41,0.41,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.435948+00:00,A30,20260712_201314
+Jarvis Labs,jarvis,https://jarvislabs.ai/,A30,a30,24,Ampere,1,1,0.41,0.41,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.501462+00:00,A30,20260714_233138
 IO.NET,ionet,https://io.net/,A30,a30,24,Ampere,1,4,1.9688,1.9688,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.531233+00:00,A30,20260714_163003
 IO.NET,ionet,https://io.net/,A30,a30,24,Ampere,4,4,1.4175,5.67,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-13 00:00:05.817495+00:00,A30,20260713_165406
 AceCloud,acecloud,https://acecloud.ai/,A30,a30,24,Ampere,1,2,0.7335,0.7335,on_demand,,USD,1.0,https://acecloud.ai/pricing/,2026-07-14 00:00:26.191379+00:00,A30,20260714_163003
@@ -770,8 +771,8 @@ Massed Compute,massedcompute,https://massedcompute.com/,A100 SXM,a100sxm,80,Ampe
 Lambda Labs,lambda,https://lambdalabs.com/,A100 SXM,a100sxm,80,Ampere,8,8,2.79,22.32,on_demand,,USD,1.0,https://shadeform.com/directory/instances?cloud=lambdalabs&gputype=A100_80G&numgpus=8&referral=6B321750,2026-07-10 00:01:32.999404+00:00,A100 SXM,20260710_171043
 Lambda Labs,lambda,https://lambdalabs.com/,A100 SXM,a100sxm,80,Ampere,8,8,1.99,15.92,on_demand,,USD,1.0,https://docs.lambdalabs.com/public-cloud/cloud-api/#listing-instances-types-offered-by-lambda-gpu-cloud,2026-07-14 00:01:01.933364+00:00,A100 SXM,20260714_163003
 Koyeb,koyeb,https://www.koyeb.com,A100 SXM,a100sxm,80,Ampere,2,8,3.2,6.4,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.405939+00:00,A100 SXM,20260710_002006
-Koyeb,koyeb,https://www.koyeb.com,A100 SXM,a100sxm,80,Ampere,1,8,1.6,1.6,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-09 19:01:13.312210+00:00,A100 SXM,20260710_002006
-Jarvis Labs,jarvis,https://jarvislabs.ai/,A100 SXM,a100sxm,80,Ampere,1,1,1.49,1.49,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.388360+00:00,A100 SXM,20260712_201314
+Koyeb,koyeb,https://www.koyeb.com,A100 SXM,a100sxm,80,Ampere,8,8,1.6,12.8,on_demand,,USD,1.0,https://www.koyeb.com/pricing,2026-07-14 17:02:13.748727+00:00,A100 SXM,20260714_233138
+Jarvis Labs,jarvis,https://jarvislabs.ai/,A100 SXM,a100sxm,80,Ampere,1,1,1.49,1.49,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.436795+00:00,A100 SXM,20260714_233138
 IO.NET,ionet,https://io.net/,A100 SXM,a100sxm,80,Ampere,2,2,2.0953,4.1906,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-09 00:01:22.222497+00:00,A100 SXM,20260710_002006
 IO.NET,ionet,https://io.net/,A100 SXM,a100sxm,80,Ampere,4,4,1.9874,7.9496,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-10 00:00:01.512076+00:00,A100 SXM,20260710_171043
 IO.NET,ionet,https://io.net/,A100 SXM,a100sxm,80,Ampere,1,4,1.3125,1.3125,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.725565+00:00,A100 SXM,20260714_163003
@@ -810,7 +811,7 @@ Microsoft Azure,azure,https://azure.microsoft.com/en-us/solutions/ai/,A100 PCIE,
 Microsoft Azure,azure,https://azure.microsoft.com/en-us/solutions/ai/,A100 PCIE,a100pcie,40,Ampere,8,8,1.7032,13.6256,reserved,36.0,USD,1.0,https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/,2026-07-13 11:03:54.351113+00:00,A100 PCIE,20260713_165406
 Microsoft Azure,azure,https://azure.microsoft.com/en-us/solutions/ai/,A100 PCIE,a100pcie,40,Ampere,8,8,0.7479,5.9832,spot,,USD,1.0,https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/,2026-07-13 11:03:54.382958+00:00,A100 PCIE,20260713_165406
 Microsoft Azure,azure,https://azure.microsoft.com/en-us/solutions/ai/,A100 PCIE,a100pcie,40,Ampere,4,8,0.6788,2.7152,spot,,USD,1.0,https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/,2026-07-13 11:03:53.893652+00:00,A100 PCIE,20260713_165406
-Jarvis Labs,jarvis,https://jarvislabs.ai/,A100 PCIE,a100pcie,40,Ampere,1,1,0.89,0.89,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-11 23:01:00.413759+00:00,A100 PCIE,20260712_201314
+Jarvis Labs,jarvis,https://jarvislabs.ai/,A100 PCIE,a100pcie,40,Ampere,1,1,0.89,0.89,on_demand,,USD,1.0,https://jarvislabs.ai/pricing,2026-07-14 15:01:24.470176+00:00,A100 PCIE,20260714_233138
 IO.NET,ionet,https://io.net/,A100 PCIE,a100pcie,40,Ampere,1,1,2.079,2.079,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-12 00:00:06.751488+00:00,A100 PCIE,20260712_201314
 IO.NET,ionet,https://io.net/,A100 PCIE,a100pcie,40,Ampere,1,1,1.786,1.786,on_demand,,USD,1.0,https://api.io.solutions/enterprise/v1/io-cloud/vmaas/hardware,2026-07-14 00:00:06.561056+00:00,A100 PCIE,20260714_163003
 Hyperstack,hyperstack,https://www.hyperstack.cloud/,A100 PCIE,a100pcie,40,Ampere,1,1,1.35,1.35,on_demand,,USD,1.0,https://www.hyperstack.cloud/gpu-pricing,2026-07-14 00:00:33.912221+00:00,A100 PCIE,20260714_163003
