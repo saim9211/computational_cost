@@ -55,6 +55,10 @@ df["price_lag_2"] = (
     df.groupby(["gpu_model", "provider"])["avg_price"]
       .shift(2)
 )
+df["price_lag_3"] = (
+    df.groupby(["gpu_model", "provider"])["avg_price"]
+      .shift(3)
+)
 
 df.to_csv(
     "gpu_forecasting_dataset.csv",
