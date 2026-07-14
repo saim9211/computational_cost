@@ -30,7 +30,7 @@ try:
     df.to_sql(
     "gpu_pricing_history",
     con=engine,
-    if_exists="append",
+    if_exists="replace",
     index=False,
     chunksize=1000
 )
